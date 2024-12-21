@@ -1,4 +1,4 @@
-# Students Management System
+# Students-Management-System
 
 A simple and efficient web-based application to manage student details. This project is designed to allow users to add, update, and delete student information dynamically using HTML, CSS, and JavaScript.
 
